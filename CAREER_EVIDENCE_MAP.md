@@ -66,4 +66,4 @@ This map connects common GRC job requirements to the work that proves them. Each
 
 ---
 
-*Last verified: [DATE]. Every link above was opened and checked on this date.*
+*Last verified: 10/16/2026. Every link above was opened and checked on this date.*
