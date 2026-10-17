@@ -41,7 +41,7 @@ This map connects common GRC job requirements to the work that proves them. Each
 
 | Requirement | Evidence | Type |
 |---|---|---|
-| AI tool intake and review | [AI Tool & Vendor Registry](https://beth-gerharts-ai-registry.vercel.app/): employees submit AI tools for compliance and security review. Source: [ai-registry repo](https://github.com/bettybangs/ai-registry), [intake UI](https://github.com/bettybangs/ai-registry/blob/main/src/App.jsx) | Live demo |
+| AI tool intake and review | [AI Tool & Vendor Registry]https://ai-vendor-registry.vercel.app/: employees submit AI tools for compliance and security review. Source: [ai-registry repo](https://github.com/bettybangs/ai-registry), [intake UI](https://github.com/bettybangs/ai-registry/blob/main/src/App.jsx) | Live demo |
 | Risk-tier assignment | Registry assigns a risk tier automatically from submitted inputs. [Tiering logic](https://github.com/bettybangs/ai-registry/blob/main/api/tier.py) | Live demo |
 | Third-party and vendor risk | Registry captures vendor and data details used for tiering. 20 years running my own business included owning vendor contracts and vendor-risk compliance. | Live demo |
 
